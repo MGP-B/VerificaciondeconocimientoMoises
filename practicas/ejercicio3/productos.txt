@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+        	<meta charset="UTF-8">
+        	<title>productos3</title>
+	</head>
+	<body>
+	<nav>
+		<a href="ejercicio3.html"> Inicio<a>
+		<a href="contacto.html"> Contacto<a>
+	</nav>
+	</body>
+</html>

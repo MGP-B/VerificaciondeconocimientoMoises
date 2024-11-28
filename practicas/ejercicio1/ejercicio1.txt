@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+        	<meta charset="UTF-8">
+        	<title>Practica</title>
+	</head>
+	<body>
+		<h1 id="inicio"> Inicio </h1>
+
+		<-- Texto -->
+		<p><b> Texto en negrita </b></p>
+		<p><i> Texto en cursiva </i></p>
+		
+		<-- Listas -->
+		<ol>
+			<li><p><b> Este es un texto de prueba sobre el uso de las negritas </b></p></li>
+			<li><p><i> Este es un texttp de prueba sobre el uso de las cursivas</i></p></li>
+		</ol>
+		<ul>
+			<li> Esto puede ser util en menús o algunos apartados que se pueden colocar en formatos de listas en una página web </li>
+		</ul>
+		
+		<-- Enlaces --> 
+		<a href="https://infotep.com"> Infotep </a>
+		<a href="#inicio"> ir a inicio </a> 
+
+		
